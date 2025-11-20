@@ -5,7 +5,7 @@ package app;
 import java.sql.*;
 
 // classe publica que fornece conexao com o sql server
-public class ConnectionFactory {
+class ConnectionFactory {
 
     // altere usuario e senha conforme seu ambiente
     private static final String URL = "jdbc:sqlserver://localhost:1433;databaseName=cadastro_candidato";

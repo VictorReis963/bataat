@@ -3,7 +3,7 @@
 package app;
 
 // classe publica que representa pessoa fisica
-public class PessoaFisica {
+ class PessoaFisica {
     public String cpf;
     public String nome;
     public int idade;
