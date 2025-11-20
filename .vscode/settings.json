@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "java_sqlserver_project/src",
+        "java_sqlserver_project/lib"
+    ]
+}
